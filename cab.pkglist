@@ -1,0 +1,10 @@
+@core
+openssh-clients
+yum-utils
+man
+wget
+tar
+vim-enhanced
+strace
+tcpdump
+ed
