@@ -10,4 +10,4 @@ Requirements
 Run
 ===
  * 	Usage:  cab command [OPTIONS]"
- *	build <distrib> <distrib_version> <arch> <packages_list_file> [mirror]
+ *	build \<distrib> \<distrib_version> \<arch> \<packages_list_file> \[mirror]
